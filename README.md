@@ -40,77 +40,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Sentry](https://sentry.io/)**  
+Sorted by company size (revenue/valuation) descending.
 
-  Leading developer-first error tracking and performance monitoring platform with broad SDK support, issue grouping, release health, session replay, and tracing.
-
-
-
-- **[Rollbar](https://rollbar.com/)**  
-
-  Error monitoring focused on fast triage, intelligent grouping, and tight integration with deployment pipelines for teams that ship frequently.
-
-
-
-- **[Bugsnag (SmartBear Insight Hub)](https://www.bugsnag.com/)**  
-
-  Crash and error monitoring with particular strength in mobile (iOS, Android, React Native) and release stability scoring.
-
-
-
-- **[Raygun](https://raygun.com/)**  
-
-  Error tracking, crash reporting, and real user monitoring platform supporting web, mobile, and backend applications.
-
-
-
-- **[Honeybadger](https://www.honeybadger.io/)**  
-
-  Developer-friendly error tracking that also bundles uptime monitoring and cron checks, popular with smaller SaaS teams.
-
-
-
-- **[Airbrake](https://airbrake.io/)**  
-
-  Classic exception tracking service with strong language support and long-standing presence in the error monitoring space.
-
-
-
-- **[LogRocket](https://logrocket.com/)**  
-
-  Session replay and front-end monitoring platform that combines error tracking with visual reproduction of user sessions.
-
-
-
-- **[Embrace](https://embrace.io/)**  
-
-  Mobile-focused observability and crash reporting platform with high-fidelity session data and OpenTelemetry-based SDKs.
-
-
-
-- **[Instabug](https://www.instabug.com/)**  
-
-  Mobile crash reporting, bug reporting, and in-app feedback platform used by many iOS and Android teams.
-
-
-
-- **[Firebase Crashlytics](https://firebase.google.com/products/crashlytics)**  
-
-  Google’s widely adopted free and paid crash reporting solution tightly integrated with the Firebase ecosystem.
-
-
-
-- **[TrackJS](https://trackjs.com/)**  
-
-  JavaScript-focused error monitoring with strong emphasis on front-end reliability and actionable insights.
-
-
-
-- **[GlitchTip (Cloud)](https://glitchtip.com/)**  
-
-  Hosted version of the open-source GlitchTip platform — a lightweight, Sentry-compatible error tracker.
-
-
+| Platform | Company Size | Pricing (Starting Tier) | Free Tier / Trial Limits |
+|----------|-------------|------------------------|--------------------------|
+| **[Firebase Crashlytics](https://firebase.google.com/products/crashlytics)** | Part of Alphabet (Google) — $2T+ market cap, ~$340B annual revenue | Free for ≤50K sessions/mo; then $0.10 per 1K sessions (Pay-as-you-go) | Free forever: unlimited crashes, 50K sessions/mo, crash reporting, non-fatal events, custom logs, alerts |
+| **[Sentry](https://sentry.io/)** | $217M total funding, est. ~$1B+ valuation, 200+ employees | Developer: Free; Team: **$26/mo** (annual); Business: **$80/mo** (annual) | Free forever (Developer plan): 1 user, 5K errors/mo, 5GB logs/mo, 5M spans/mo, 50 replays/mo, 10 dashboards, 1 uptime monitor |
+| **[LogRocket](https://logrocket.com/)** | $55M+ total funding (Series B), ~200 employees | Core: Free; Pro: Paid usage-based (above 100K sessions/mo) | Free forever (Core plan): 1,000 sessions/mo, error tracking, session replay, console logs, network requests |
+| **[Bugsnag (SmartBear Insight Hub)](https://www.bugsnag.com/)** | Part of SmartBear (acquired 2021); SmartBear owned by Francisco Partners — est. $100M+ revenue | Select: from **$0/mo** (usage-based); Preferred: from **$0/mo** (usage-based); Enterprise: custom | Free forever: 1 user, 7.5K events/mo, 1M spans/mo, 50+ platforms, basic notifications, full-stack diagnostics |
+| **[Instabug / Luciq](https://www.instabug.com/)** | ~$50M+ total funding, ~100+ employees | Custom pricing based on Daily Active Users (DAU) & seats; contact for quote | No free tier — **demo/trial available on request**; enterprise-focused pricing with full platform access |
+| **[Raygun](https://raygun.com/)** | NZ-based, ~$10M+ total funding, ~50–100 employees | Basic: **$40/mo** (annual) per 100K errors; Team: **$80/mo** (annual) per 200K errors; Business: **$400/mo** (annual) per 1M errors | No free tier — **14-day free trial** with full feature access, unlimited apps and members, unlimited customer records |
+| **[Rollbar](https://rollbar.com/)** | ~$26M total funding, ~50–100 employees | Essentials: usage-based (credits); Advanced: usage-based (credits); Enterprise: custom | Free forever: 5K occurrences/mo + 1K session replays/mo, real-time feed, intelligent grouping, stack traces, deploy tracking |
+| **[Embrace](https://embrace.io/)** | ~$30M+ total funding, ~50 employees | Pro: **$0.80 per 1K sessions** (min $80/mo); Enterprise: custom | Free forever: up to 1M sessions/yr (~83K/mo), 5 users, errors & crashes, basic performance monitoring, 3-day data retention |
+| **[Honeybadger](https://www.honeybadger.io/)** | Bootstrapped & profitable, ~30–50 employees | Developer: Free; Team: **$26/mo**; Business: **$80/mo** | Free forever (Developer plan): 1 user, 5K errors/mo, 50MB/day perf & logging, 1 uptime monitor, 1 status page, 15-day data retention |
+| **[Airbrake](https://airbrake.io/)** | Acquired by PagerDuty (NYSE: PD) — ~$300M annual revenue (parent company) | Dev: **$19/mo** (monthly) for 25K errors; Basic: **$38/mo**; Pro: **$76/mo** | No free tier — **free trial** with unlimited errors, unlimited performance events, 30-day data retention during trial period |
+| **[TrackJS](https://trackjs.com/)** | Bootstrapped, ~10–20 employees | Starter: **$49/mo** (100K page views); Professional: **$99/mo** (1M page views); Business: **$199/mo** (5M+ page views) | No free tier — **free trial** available; Starter includes 800K+ errors/mo, 10-day retention, unlimited users |
+| **[GlitchTip (Cloud)](https://glitchtip.com/)** | Small indie/open-source project, ~2–5 contributors | Small: **$15/mo** (100K events); Medium: **$50/mo** (500K events); Large: **$250/mo** (3M events) | Free forever: up to 1,000 events/mo, error tracking, unlimited projects, unlimited team members |
 
 ## Open-Source GitHub Projects
 
