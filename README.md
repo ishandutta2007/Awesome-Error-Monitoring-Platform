@@ -236,6 +236,12 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Error-Monitoring-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Error-Monitoring-Platform&type=date&legend=top-left)
+
+---
+
 <p align="center">
   <strong>🎯 Made for developers, SREs, and engineering teams that want reliable, transparent error visibility.</strong><br/><br/>
   Let's make exception monitoring more open, affordable, and under your control.
