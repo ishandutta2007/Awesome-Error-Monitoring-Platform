@@ -59,6 +59,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 | ✈️ **[Airbrake](https://airbrake.io/)** | Acquired by PagerDuty (NYSE: PD) — ~$300M annual revenue (parent company) | Dev: **$19/mo** (monthly) for 25K errors; Basic: **$38/mo**; Pro: **$76/mo** | ⏱️ No free tier — **free trial** with unlimited errors, unlimited performance events, 30-day data retention during trial period |
 | 📊 **[TrackJS](https://trackjs.com/)** | Bootstrapped, ~10–20 employees | Starter: **$49/mo** (100K page views); Professional: **$99/mo** (1M page views); Business: **$199/mo** (5M+ page views) | ⏱️ No free tier — **free trial** available; Starter includes 800K+ errors/mo, 10-day retention, unlimited users |
 | ⚡ **[GlitchTip (Cloud)](https://glitchtip.com/)** | Small indie/open-source project, ~2–5 contributors | Small: **$15/mo** (100K events); Medium: **$50/mo** (500K events); Large: **$250/mo** (3M events) | ✅ Free forever: up to 1,000 events/mo, error tracking, unlimited projects, unlimited team members |
+| 🤖 **[Runheed](https://runheed.com/)** | Small independent product from Great Work LLC | Solo: **$29/mo**; Pro: **$79/mo**; Scale: **$199/mo** | ⏱️ 7-day trial on every plan. SaaS. Groups errors from a Node or Python SDK and serves them over MCP, so a coding agent (Claude Code, Cursor, Codex) can read the stack trace, fix the bug and mark it resolved |
 
 ---
 
